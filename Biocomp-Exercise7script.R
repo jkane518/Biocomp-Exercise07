@@ -3,7 +3,7 @@
 #Write code that replicates the head function in bash
 #To subset our vector, we need square brackets
 #We are going to take the top 20 rows from a larger file named "data"
-toptwenty<-data[20,]
+toptwenty<-data[1:20,]
 
 
 #########Q2#####
